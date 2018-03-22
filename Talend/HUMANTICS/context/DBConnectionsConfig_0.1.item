@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_AbvTsPmGEeesjMnN0eLiWg" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_Abv6wPmGEeesjMnN0eLiWg" comment="" name="SQL_Server_Name" prompt="SQL_Server_Name?" promptNeeded="false" type="id_String" value="13.228.169.166"/>
+  <contextParameter xmi:id="_Abv6wfmGEeesjMnN0eLiWg" comment="" name="SQL_Server_Port" prompt="SQL_Server_Port?" promptNeeded="false" type="id_String" value="1433"/>
+  <contextParameter xmi:id="_Abv6wvmGEeesjMnN0eLiWg" comment="" name="SQL_Server_UserName" prompt="SQL_Server_UserName?" promptNeeded="false" type="id_String" value="DWUser1"/>
+  <contextParameter xmi:id="_Abv6w_mGEeesjMnN0eLiWg" comment="" name="SQL_Server_Password" prompt="SQL_Server_Password?" promptNeeded="false" type="id_Password" value="RAVCGIRaysfAfIDFIGekfQ=="/>
+  <contextParameter xmi:id="_Abv6xPmGEeesjMnN0eLiWg" comment="" name="SQL_Server_DB" prompt="SQL_Server_DB?" promptNeeded="false" type="id_String" value="localhost"/>
+  <contextParameter xmi:id="_Abv6xfmGEeesjMnN0eLiWg" comment="" name="PostgreSQL_Server_Name" prompt="PostgreSQL_Server_Name?" promptNeeded="false" type="id_String" value="5432"/>
+  <contextParameter xmi:id="_Abv6xvmGEeesjMnN0eLiWg" comment="" name="PostgreSQL_Server_Port" prompt="PostgreSQL_Server_Port?" promptNeeded="false" type="id_String" value="postgres"/>
+  <contextParameter xmi:id="_Abv6x_mGEeesjMnN0eLiWg" comment="" name="PostgreSQL_Server_UserName" prompt="PostgreSQL_Server_UserName?" promptNeeded="false" type="id_Password" value="RAVCGIRaysfAfIDFIGekfQ=="/>
+  <contextParameter xmi:id="_jx4VAP_gEeesjMnN0eLiWg" comment="" name="PostgreSQL_Server_Password" prompt="PostgreSQL_Server_Password?" promptNeeded="false" type="id_String" value=""/>
+</talendfile:ContextType>
